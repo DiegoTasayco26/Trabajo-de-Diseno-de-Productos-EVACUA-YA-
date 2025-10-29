@@ -5,7 +5,7 @@ package diseno.de.productos;
 public class DisenoDeProductos {
 
     public static void main(String[] args) {
-      
+        System.out.println("hola mundo");
     }
     
 }
